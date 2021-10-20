@@ -1,4 +1,4 @@
-### Hey everyone, [Danny](https://danielchicchon.io) here 👋
+### Hey there, [Danny](https://danielchicchon.io) here 👋
 
 I am a Software Engineering Tutor at [Trilogy Education](https://www.trilogyed.com/) helping students work through their first software projects!
 
