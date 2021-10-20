@@ -1,6 +1,6 @@
 ### Hey there, [Danny](https://danielchicchon.io) here 👋
 
-I am a Software Engineering Tutor at [Trilogy Education](https://www.trilogyed.com/) helping students work through their first software projects!
+I am a Software Engineering Tutor at [Trilogy Education](https://www.trilogyed.com/) helping students work through their first software projects
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=dchicchon&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Daniel Chicchon's GitHub Stats" />
