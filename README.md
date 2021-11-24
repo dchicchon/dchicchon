@@ -7,7 +7,7 @@ I am a Software Engineering Tutor at [Trilogy Education](https://www.trilogyed.c
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dchicchon&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="Daniel Chicchon's Most Used GitHub Languages" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikhawja&count_private=true&theme=dracula&show_icons=true&hide=css&layout=compact&card_width=270" alt="Daniel Chicchon's Most Used GitHub Languages" />
 </a>
 <!--
 **dchicchon/dchicchon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
