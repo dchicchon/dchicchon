@@ -1,4 +1,4 @@
-### Hey there, [Danny](https://danielchicchon.io) here 🦊
+### Hey!
 I am a software engineer working with rust, react, and whatever else I like at the time. Feel free to check out my [website](https://danielchicchon.io)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
