@@ -1,5 +1,5 @@
 ### Hey!
-I'm a software engineer working with rust, react, and whatever else I like at the time
+I'm a software developer based in the San Francisco Bay Area.
 
 ![](https://github-readme-stats.vercel.app/api?username=dchicchon&show_icons=true&theme=nightowl)
 
